@@ -1,0 +1,16 @@
+# Visual Studio Directory / User Specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results / Binaries
+[Dd]ebug/
+[Dd]ebugPublic/
+[Releases/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
