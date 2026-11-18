@@ -8,9 +8,22 @@
 # Build Results / Binaries
 [Dd]ebug/
 [Dd]ebugPublic/
-[Releases/
+[Rr]eleases/
 [Rr]elease/
 x64/
 x86/
 [Bb]in/
 [Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Build caching files
+*.cache
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Nuget Packages
+*.nupkg
+packages/
